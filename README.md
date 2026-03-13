@@ -19,7 +19,7 @@ Sistem, Deneyap Kart'ın dijital pinleri üzerinden durum okuma ve güç yönlen
 * 1x Breadboard ve Jumper Kablolar
 
 ## 📸 Proje Görseli
-![Devre Görseli](devre_fotografi.jpg)
+![Devre Görseli](ledproje.png)
 
 ## 💻 Kurulum ve Kullanım
 1. Devreyi yukarıdaki donanım bileşenleri ve mantığa uygun olarak breadboard üzerinde kurun.
