@@ -20,7 +20,6 @@ Sistem, Deneyap Kart'ın dijital pinleri üzerinden durum okuma ve güç yönlen
 
 ## 📸 Proje Görseli
 ![Devre Görseli](devre_fotografi.jpg)
-*(Not: Bu satırdaki parantez içine kendi yüklediğin fotoğrafın tam dosya adını yazmalısın, örn: `led_projesi.png`)*
 
 ## 💻 Kurulum ve Kullanım
 1. Devreyi yukarıdaki donanım bileşenleri ve mantığa uygun olarak breadboard üzerinde kurun.
